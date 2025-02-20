@@ -117,3 +117,5 @@ const main = async () => {
 };
 
 main();
+pnpm install
+pnpm run dev
